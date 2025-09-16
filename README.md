@@ -1,1 +1,1 @@
-This respository is for my personal controls projects. The objective is to explore and apply different control strategies I learned in class to real life scenarios. 
+This respository is for my personal controls projects. The objective is to explore and apply different control strategies I learned in class to real life scenarios and also to solve other engineering problems I learned in my other classes.
